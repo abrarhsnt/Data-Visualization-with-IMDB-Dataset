@@ -1,0 +1,49 @@
+Data Visualization with IMDB Dataset
+
+We have performed various data visualization operation on our dataset using different python libraries including
+Numpy
+Pandas
+Matplotlib
+Pyplot
+Seaborn
+
+Our dataset is of 1,000 most popular movies on IMDB from the year 2006 to 2016. The data points included are- 
+Rank
+Title
+Genre
+Description
+Director
+Actors
+Year
+Runtime (Minutes)
+Rating
+Votes
+Revenue (Millions)
+Metascore
+
+We have tried to visualize our data by finding the answer of the following questions-
+   Display Top 10 Rows of The Dataset
+Check Last 10 Rows of The Dataset
+Find Shape of Our Dataset (Number of Rows And Number of Columns)
+Getting Information About Our Dataset Like Total Number Rows, Total Number of Columns, Datatypes of Each Column And Memory Requirement
+Check Missing Values In The Dataset
+Drop All The  Missing Values
+Check For Duplicate Data
+Get Overall Statistics About The DataFrame
+Display Title of The Movie Having Runtime Greater Than or equal to 180 Minutes
+In Which Year There Was The Highest Average Voting?
+In Which Year There Was The Highest Average Revenue?
+Find The Average Rating For Each Director
+Display Top 10 Lengthy Movies Title and Runtime
+Display Number of Movies Per Year
+Find Most Popular Movie Title (Highest Revenue)
+Display Top 10 Highest Rated Movie Titles And its Directors
+Display Top 10 Highest Revenue Movie Titles
+Find Average Rating of Movies Year Wise
+Does Rating Affect The Revenue?
+Classify Movies Based on Ratings [Excellent, Good, and Average]
+Count Number of Action Movies
+Find Unique Values From Genre 
+How Many Films of Each Genre Were Made?
+
+
